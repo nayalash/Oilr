@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * [scarger](https://github.com/scarger) Omar Elnagmi, Programming Mentor. Helped with parsing HTTP - JSON. 
 
-## READ.md Template
+## README.md Template
 
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
 
