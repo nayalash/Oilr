@@ -9,7 +9,7 @@ Oilr is a discord bot, using the JDA and MyGasFeed API to deliver gas prices bas
 !help
 ```
 
-* CONGIGURE Longitude, Latitude and Radius(miles) values
+* CONFIGURE Longitude, Latitude and Radius(miles) values
 
 ```
 !config (LATITUDE) (LONGITUDE) (RADIUS)
