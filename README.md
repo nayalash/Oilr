@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [scarger](https://github.com/scarger) Omar Elnagmi, Programming Mentor. Helped with parsing HTTP - JSON. 
+* [@scarger](https://github.com/scarger), Programming Mentor. Helped with parsing HTTP - JSON. 
 
 ## README.md Template
 
