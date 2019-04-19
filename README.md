@@ -41,7 +41,7 @@ The Location of the Gas Station near you is 4000 W Peterson Ave
 
 ## Deployment
 
-Port A Discord Bot To a Server Of Your Choice (see [link](https://github.com/DV8FromTheWorld/JDA/wiki/3)-Getting-Started) for details)
+Port A Discord Bot To a Server Of Your Choice (see [link](https://github.com/DV8FromTheWorld/JDA/wiki/3) for details)
 
 Clone Repository
 Install Dependencies 
