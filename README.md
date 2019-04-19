@@ -44,7 +44,9 @@ The Location of the Gas Station near you is 4000 W Peterson Ave
 Port A Discord Bot To a Server Of Your Choice (see [link](https://github.com/DV8FromTheWorld/JDA/wiki/3) for details)
 
 Clone Repository
+
 Install Dependencies 
+
 Run Gradle Bot.Main()
 
 
