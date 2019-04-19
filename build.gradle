@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+    id'application'
+    id'com.github.johnrengelman.shadow' version '4.0.4'
+}
+
+mainClassName = 'io.github.nayalash.Oilr.Bot'
+
+version '1.0'
+def jdaVersion = '3.8.3_462'
+
+sourceCompatibility = targetCompatibility = 11.0
+
+group 'io.github.nayalash.Oilr'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile "net.dv8tion:JDA:$jdaVersion"
+    compile group: 'org.json', name: 'json', version: '20090211'
+}
+
+compileJava.options.encoding = 'UTF-8'
