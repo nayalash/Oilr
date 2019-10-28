@@ -13,9 +13,33 @@ public class API {
 
     public String apiKey = "INSERT_MyGasFeedAPI_Key";
 
-    public String LAT;
-    public String LONG;
-    public String radius;
+    private String latitude;
+    private String longitude;
+    private String radius;
+    
+    public String getLat() {
+        return latitude;
+    }
+    
+    public String getLon() {
+        return longitude;   
+    }
+    
+    public String getRadius() {
+        return radius;
+    }
+    
+    public void setLat(String latitude) {
+        this.latitude = latitude;
+    }
+    
+    public void setLon(String longitude) {
+        this.longitude = longitude;
+    }
+    
+    public void setRadius(String radius) {
+        return radius;
+    }
 
 
     public String fetchStaionsPrice() {
